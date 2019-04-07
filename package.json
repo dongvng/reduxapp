@@ -2,7 +2,7 @@
   "name": "reduxapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dongNguyenViet.github.io/calculator",
+  "homepage": "https://dongNguyenViet.github.io/reduxapp",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
