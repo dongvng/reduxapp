@@ -1,0 +1,19 @@
+{
+  "main.css": "/reduxapp/static/css/main.07448e81.chunk.css",
+  "main.js": "/reduxapp/static/js/main.b10975f3.chunk.js",
+  "main.js.map": "/reduxapp/static/js/main.b10975f3.chunk.js.map",
+  "runtime~main.js": "/reduxapp/static/js/runtime~main.473854b9.js",
+  "runtime~main.js.map": "/reduxapp/static/js/runtime~main.473854b9.js.map",
+  "static/js/2.8b0b2839.chunk.js": "/reduxapp/static/js/2.8b0b2839.chunk.js",
+  "static/js/2.8b0b2839.chunk.js.map": "/reduxapp/static/js/2.8b0b2839.chunk.js.map",
+  "index.html": "/reduxapp/index.html",
+  "precache-manifest.8cc6f63c384bba425f6e1082d3e3a953.js": "/reduxapp/precache-manifest.8cc6f63c384bba425f6e1082d3e3a953.js",
+  "service-worker.js": "/reduxapp/service-worker.js",
+  "static/css/main.07448e81.chunk.css.map": "/reduxapp/static/css/main.07448e81.chunk.css.map",
+  "static/media/divide-solid.svg": "/reduxapp/static/media/divide-solid.cffb8b79.svg",
+  "static/media/equals-solid.svg": "/reduxapp/static/media/equals-solid.9900062b.svg",
+  "static/media/minus-solid.svg": "/reduxapp/static/media/minus-solid.af448422.svg",
+  "static/media/percentage-solid.svg": "/reduxapp/static/media/percentage-solid.91427a13.svg",
+  "static/media/plus-solid.svg": "/reduxapp/static/media/plus-solid.f95493ce.svg",
+  "static/media/times-solid.svg": "/reduxapp/static/media/times-solid.7828a596.svg"
+}
